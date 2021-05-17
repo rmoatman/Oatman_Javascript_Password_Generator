@@ -1,6 +1,6 @@
 # RMOatman-Password-Generator
 
-![Screenshot of password generator](/assets/oatman_javascript_screenshot.png)
+![Screenshot of password generator](Assets/oatman_javascript_screenshot.png)
 
 https://rmoatman.github.io/Oatman_Javascript_Password_Generator/
 
