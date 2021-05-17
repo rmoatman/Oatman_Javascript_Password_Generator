@@ -2,7 +2,7 @@
 
 ![Screenshot of password generator](Assets/oatman_javascript_screenshopt.png)
 
-https://rmoatman.github.io/RMOatman_Developer_Portfolio/
+https://rmoatman.github.io/Oatman_Javascript_Password_Generator/
 
 ## Description
 ~~~
